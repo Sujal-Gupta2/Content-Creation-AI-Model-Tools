@@ -1,0 +1,8 @@
+{
+  "name": "OmniContent Studio",
+  "description": "A comprehensive AI-powered content creation platform for blogs, static posts, videos, infographics, and SEO/AEO/GEO optimization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
